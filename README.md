@@ -2,7 +2,9 @@
 
 A timed quiz app built with **React**, **Vite** and **Tailwind CSS**. Pick a category (HTML, CSS, JavaScript or React), answer 10 questions against a countdown timer, and see your score at the end.
 # Quiz Time
+## 🔗 Project Links
 
+- **GitHub Repository:** [View Source Code](https://github.com/milyas1264/React-quiz-app-new)
 [🚀 Live Demo](https://react-quiz-app-new-five.vercel.app/)
 ## Features
 
